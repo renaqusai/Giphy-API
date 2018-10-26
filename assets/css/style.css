@@ -1,0 +1,22 @@
+button {	
+	margin: 10px 5px 20px 5px;
+	display: inline;
+	
+}
+body {
+	background-color: rgba(32, 112, 158, 0.267);
+}
+
+.gif-form {
+	margin: 20px;
+}
+
+#add-gif {
+	margin-left: 15px;
+}
+
+#display-gifs {
+	position: relative;
+	float: left;
+
+}
